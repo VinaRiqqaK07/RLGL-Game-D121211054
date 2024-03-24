@@ -1,7 +1,4 @@
 # Red Light Green Light Game
-Nama : Vina Riqqa Khairiah
-NIM : D121211054
-
 ### Deskripsi
 Proyek ini adalah implementasi game "Red Light Green Light" yang terinspirasi
 oleh serial televisi Korea "Squid Game". Dalam game ini, pemain harus melewati
@@ -16,4 +13,4 @@ sehingga harus mengulang permainan.
 4. Jika pemain menang, akan tampil teks bahwa pemain telah menang.
 
 ### Pengembang
-Dikembangkan dengan mengikuti Course Coding Studio oleh Vina Riqqa Khairiah - vinariqqakhairiah@gmail.com
+Dikembangkan dengan mengikuti Course Coding Studio oleh Vina Riqqa Khairiah (D121211054) - vinariqqakhairiah@gmail.com
